@@ -1,0 +1,10 @@
+{
+    "name": "rolling-office/amazon-paapi5",
+    "authors": [
+        {
+            "name": "Jan Terlinden",
+            "email": "jan@rolling-office.de"
+        }
+    ],
+    "require": {}
+}
